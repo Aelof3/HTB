@@ -1,3 +1,2 @@
-# HTB
-Hack The Box
-- files and stuff I create and use while doing the challenges on https://hackthebox.eu
+# REPO ME CAPTAIN
+- files and stuff I create/find and use while doing challenges
